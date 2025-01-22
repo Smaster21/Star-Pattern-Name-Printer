@@ -1,0 +1,13 @@
+# Maven build directory
+target/
+
+# IDE specific files
+.idea/
+*.iml
+.vscode/
+
+# Log files
+*.log
+
+# Compiled class files
+*.class
